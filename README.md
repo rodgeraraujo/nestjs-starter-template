@@ -1,6 +1,6 @@
 # NestJS Starter Template
 
-[![CI status](https://github.com/rodgeraraujo/nestjs-starter/workflows/ci/badge.svg)](https://github.com/rodgeraraujo/nestjs-starter/actions)
+[![CI status](https://github.com/rodgeraraujo/nestjs-starter-template/workflows/ci/badge.svg)](https://github.com/rodgeraraujo/nestjs-starter/actions)
 
 [NestJS](https://github.com/nestjs/nest) framework scaffold template starter repository.
 
@@ -136,6 +136,7 @@ cd my-nestjs-app
 When you use this template, try follow the checklist to update your info properly
 
 - [ ] Rename `name` field in `package.json`
+- [ ] Update `description` field in `package.json`
 - [ ] Change the author name in `LICENSE`
 - [ ] Clean up the READMEs
 
